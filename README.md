@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Garate</h1>
 <h3 align="center">Entusiasta en Data Analitycs & Data Science</h3>
 
-- 🌱 I’m currently learning *Data Science*
+- 🌱 Estudiando: *Data Science* en CoderHouse
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
