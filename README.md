@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Michael Garate</h1>
-
+<h4>En formacion como Data Scientist</h4>
 </p>
 
 <h3 align="left">Languajes y herramientas:</h3>
