@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Michael Garate</h1>
-<h4>En formacion como Data Scientist</h4>
+<h4>Analista programador egresado del Instituto Profesional Santo Tomás en formación como Data Scientist</h4>
 </p>
 
 <h3 align="left">Languajes y herramientas:</h3>
