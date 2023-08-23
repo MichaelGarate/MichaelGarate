@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, Soy Michael Garate</h1>
 <h4>Analista programador egresado del Instituto Profesional Santo Tomás en formación como Data Scientist</h4>
-    <p>Link a mi perfil en LinkedIn:</p>
       <a href="https://www.linkedin.com/in/michael-garate-quintanilla-83356020a/" target="_blank">Mi Perfil de LinkedIn</a>
     
 <h3 align="left">Languajes y herramientas:</h3>
